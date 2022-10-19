@@ -1,0 +1,5 @@
+- openjdk version "11.0.16"
+- Apache Tomcat 10
+- SQLServer 2019 (Lo utilice con docker y lo instale segun esta página https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?view=sql-server-ver15&pivots=cs1-bash) 
+- Eclipse IDE for Enterprise Java and Web Developers
+- DBeaver

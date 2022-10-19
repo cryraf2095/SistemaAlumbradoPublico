@@ -1,0 +1,7 @@
+Descargar jars
+- commons-codec-1.15
+- jakarta.activation-1.2.1
+- javax.mail-1.6.0
+- mssql-jdbc-9.2.1.jre11
+
+Pegarlos en src/main/webapp/WEB-INF/lib
